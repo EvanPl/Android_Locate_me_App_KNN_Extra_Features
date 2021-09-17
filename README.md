@@ -7,4 +7,4 @@
 - Compass
 - Realistic indoor floorpans
 - User friendly interface
-![alt text](https://github.com/EvanPl/Locate_me_App_with_Extra_Functionalities/blob/main/Images/app.png)
+![alt text](https://github.com/EvanPl/Locate_me_App_with_Extra_Functionalities/blob/main/Images/App.png)
