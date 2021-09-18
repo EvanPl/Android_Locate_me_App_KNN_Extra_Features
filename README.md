@@ -8,5 +8,4 @@
 - Realistic indoor floorpans
 - User friendly interface
 
-
-![alt text](https://github.com/EvanPl/Locate_me_App_with_Extra_Functionalities/blob/main/Images/App.png)
+<img src="https://github.com/EvanPl/Locate_me_App_with_Extra_Functionalities/blob/main/Images/App.png" width=75% height=75%>
